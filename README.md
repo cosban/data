@@ -18,5 +18,5 @@ The prepare function takes in your query along with any arguments which should b
 ### Execute
 
 Either execute your transactions, i.e. your inserts, updates, deletes, Or your queries which return data.   
-For single statement operations, you may prepare and execute/query in one step using the PrepareAnd... methods
+For single statement operations, you may prepare and execute/query in one step using the PrepareAnd... methods.    
 You can either query for a single row, or multiple. It's up to you.
